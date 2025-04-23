@@ -8,4 +8,16 @@ Any quantity that changes with time eiter can be represented as an analog signal
 
 ![Fig.(a) An analog (continuous) signal & (b) A digital (discrete) signal](/image/fig_1_1.png)
 
+[x] **Advantages of Digital system**
+
+1. Digital data can be trasmitted more efficiently and is more reliable than analog data.
+2. Digital data can be stored in memory.
+3. It is less affected from the noise.
+4. The transmission is more secure with encryption.
+
+
+## [1.2] **Digital Waveforms**
+
+Digital waveforms consist of voltage levels that are changing back and forth between the **HIGH** and **LOW** level as states.
+
 
